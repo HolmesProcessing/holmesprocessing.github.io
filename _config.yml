@@ -1,0 +1,65 @@
+url: https://holmesprocessing.github.io
+baseurl: 
+
+# Site settings
+title: Holmes Processing
+email: your-email@domain.com
+description: "Holmes Processing is an open source and enterprise ready collection of tools for analyzing cyber security data. It provides the scalability, resilience, and flexibility needed to process 10s of millions of samples."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 0D8098
+  secondary: 0A667A
+  secondary-dark: 333
+  nav: FFFFFF
+  nav-bg: rgba(0,0,0,0.5)
+
+# Team names, titles and social links
+people:
+- name: Zachary Hanif
+  pic: 1
+  position: Core Developer
+  social:
+    - title: twitter
+      url: #
+    - title: linkedin
+      url: #
+
+- name: George Webster
+  pic: 2
+  position: Core Developer
+  social:
+    - title: twitter
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Christopher von Pentz
+  pic: 3
+  position: Developer
+  social:
+    - title: twitter
+      url: #
+    - title: linkedin
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/holmesprocessing
+  - title: github
+    url: http://github.com/holmesprocessing
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Technical University Munich
+  - line: Chair for IT Security (I20)
+  - line: Boltzmannstraße 3
+  - line: 85748 Garching
+  - line: Germany
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+gems:
+  - jekyll-sitemap

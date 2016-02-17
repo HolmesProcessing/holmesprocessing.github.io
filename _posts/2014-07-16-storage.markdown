@@ -1,0 +1,16 @@
+---
+title: Holmes Storage
+subtitle: Storage Planner
+layout: default
+modal-id: 3
+img: harddrive.svg
+thumbnail: harddrive.svg
+alt: image-alt
+repository-name: Repository
+repository: https://github.com/HolmesProcessing/Holmes-Storage
+documentation-name: Read The Docs
+documentation: http://holmes-processing.readthedocs.org/en/latest/rst/installation/index.html
+category: Core Component
+description: The Storage Planner manages access to all data within the Holmes Processing system. It orchestrates the interaction across multiple Databases, serves the files for analysis, etc. 
+
+---

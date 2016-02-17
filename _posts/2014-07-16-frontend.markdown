@@ -1,0 +1,16 @@
+---
+title: Holmes-Frontend
+subtitle: Web Frontend 
+layout: default
+modal-id: 4
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+repository-name: Repository
+repository: https://github.com/HolmesProcessing/Holmes-Frontend
+documentation-name: Read The Docs
+documentation: http://holmes-processing.readthedocs.org/en/latest/rst/installation/index.html
+category: Helper Agent
+description: The Holmes Frontend provides a simple web interface for interacting with the Holmes system. This is currently under heavy development and will be released shortly. 
+
+---
