@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 1 -->
+<svg x="0" y="0" width="553" height="369" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_1"><path d="M0.5,369.5l0,-369l553,0l0,369Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g2_1{
+fill: none;
+stroke: #000000;
+stroke-width: 1;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g1_1{
+fill: none;
+stroke: #000000;
+stroke-width: 1;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+stroke-dasharray: 1,2;
+}
+.g3_1{
+fill: none;
+stroke: #0000FF;
+stroke-width: 2;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+stroke-dasharray: 4,2;
+}
+.g4_1{
+fill: none;
+stroke: #FF0000;
+stroke-width: 2;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+
+.s1_1{
+font-size: 13.75px;
+font-family: QCATYI-Helvetica1;
+fill: #000000;
+}
+.s2_1{
+font-size: 16.81px;
+font-family: QCATYI-Helvetica1;
+fill: #000000;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,369
+L553,369
+L553,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_1)">
+<path d="M80.5,325.5l442,0" class="g1_1" />
+<path d="M80.5,325.5l5,0m437,0l-5,0" class="g2_1" />
+</g>
+<text 
+x="64" 
+y="330" 
+dx="0" 
+class="s1_1"
+>0</text>
+
+<path d="M80.5,264.5l442,0" class="g1_1" />
+<path d="M80.5,264.5l5,0m437,0l-5,0" class="g2_1" />
+<text 
+x="30" 
+y="269" 
+dx="0,0,0,0,0,0" 
+class="s1_1"
+>10,000</text>
+
+<path d="M80.5,203.5l442,0" class="g1_1" />
+<path d="M80.5,203.5l5,0m437,0l-5,0" class="g2_1" />
+<text 
+x="30" 
+y="207" 
+dx="0,0,0,0,0,0" 
+class="s1_1"
+>20,000</text>
+
+<g clip-path="url(#c0_1)">
+<path d="M80.5,142.5l442,0" class="g1_1" />
+<path d="M80.5,142.5l5,0m437,0l-5,0" class="g2_1" />
+</g>
+<text 
+x="30" 
+y="146" 
+dx="0,0,0,0,0,0" 
+class="s1_1"
+>30,000</text>
+
+<path d="M80.5,80.5l442,0" class="g1_1" />
+<path d="M80.5,80.5l5,0m437,0l-5,0" class="g2_1" />
+<text 
+x="30" 
+y="85" 
+dx="0,0,0,0,0,0" 
+class="s1_1"
+>40,000</text>
+
+<path d="M80.5,19.5l9,0m145,0l288,0" class="g1_1" />
+<path d="M80.5,19.5l5,0m437,0l-5,0" class="g2_1" />
+<text 
+x="30" 
+y="24" 
+dx="0,0,0,0,0,0" 
+class="s1_1"
+>50,000</text>
+
+<path d="M165.5,325.5l0,-292m0,-27l0,-5" class="g1_1" />
+<path d="M165.5,325.5l0,-5m0,-319l0,5" class="g2_1" />
+<text 
+x="140" 
+y="344" 
+dx="0,0,0,0,0,0,0" 
+class="s1_1"
+>200,000</text>
+
+<g clip-path="url(#c0_1)">
+<path d="M254.5,325.5l0,-324" class="g1_1" />
+<path d="M254.5,325.5l0,-5m0,-319l0,5" class="g2_1" />
+</g>
+<text 
+x="229" 
+y="344" 
+dx="0,0,0,0,0,0,0" 
+class="s1_1"
+>400,000</text>
+
+<path d="M343.5,325.5l0,-324" class="g1_1" />
+<path d="M343.5,325.5l0,-5m0,-319l0,5" class="g2_1" />
+<text 
+x="318" 
+y="344" 
+dx="0,0,0,0,0,0,0" 
+class="s1_1"
+>600,000</text>
+
+<g clip-path="url(#c0_1)">
+<path d="M432.5,325.5l0,-324" class="g1_1" />
+<path d="M432.5,325.5l0,-5m0,-319l0,5" class="g2_1" />
+</g>
+<text 
+x="408" 
+y="344" 
+dx="0,0,0,0,0,0,0" 
+class="s1_1"
+>800,000</text>
+
+<path d="M522.5,325.5l0,-324" class="g1_1" />
+<path d="M522.5,325.5l0,-5m0,-319l0,5" class="g2_1" />
+<text 
+x="491" 
+y="344" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_1"
+>1,000,000</text>
+
+<path d="M80.5,325.5l442,0l0,-324l-442,0l0,324Z" class="g2_1" />
+<text 
+transform="matrix(0, -1, 1, 0, 13, 203)"
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_1"
+>Time (sec)</text>
+
+<text 
+x="204" 
+y="365" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_1"
+>Number of PE32 Samples</text>
+
+<path d="M89.5,33.5l145,0l0,-27l-145,0l0,27Z" class="g2_1" />
+<text 
+x="109" 
+y="17" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_1"
+>10 Workers</text>
+
+<path d="M188.1,13l37.8,0M80.8,325.6l4.5,0l4.5,-0.2l4.4,-0.2L98.6,325l4.5,-0.3l4.5,-0.4l4.4,-0.5l4.5,-0.5l4.4,-0.6l4.5,-0.6l4.5,-0.8l4.4,-0.8l4.5,-0.8l4.4,-0.9l4.5,-1l4.5,-1l4.4,-1.1l4.4,-1.2l4.5,-1.2L170,312l4.4,-1.3l4.5,-1.5l4.4,-1.4l4.5,-1.6l4.5,-1.6l4.4,-1.6l4.5,-1.8l4.4,-1.8l4.5,-1.9l4.5,-1.9l4.4,-2l4.4,-2l4.5,-2.2l4.5,-2.2l4.4,-2.2l4.5,-2.3l4.4,-2.4l4.5,-2.4l4.5,-2.5l4.4,-2.5l4.4,-2.7l4.5,-2.7l4.5,-2.7l4.5,-2.9l4.4,-2.9l4.4,-2.9l4.6,-3l4.4,-3.1l4.4,-3.1l4.5,-3.2l4.5,-3.3l4.4,-3.3l4.5,-3.4l4.4,-3.5l4.5,-3.5l4.5,-3.6l4.4,-3.6l4.5,-3.8l4.4,-3.7l4.5,-3.9l4.5,-3.9l4.4,-4l4.4,-4l4.5,-4.1l4.5,-4.1l4.4,-4.2l4.5,-4.4l4.4,-4.3l4.5,-4.4l4.5,-4.5l4.4,-4.5l4.4,-4.6l4.5,-4.6l4.5,-4.8l4.5,-4.8l4.4,-4.9l4.4,-4.9l4.5,-5l4.5,-5l4.4,-5.2l4.5,-5.1l4.4,-5.2l4.5,-5.4l4.5,-5.3l4.4,-5.5l4.4,-5.5l4.5,-5.5l4.5,-5.7l4.4,-5.6L482,63.3l4.4,-5.8L491,51.6l4.4,-5.9l4.4,-6.1l4.5,-6l4.5,-6.1l4.4,-6.2L517.7,15l4.4,-6.3" class="g3_1" />
+<text 
+x="101" 
+y="31" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_1"
+>100 Workers</text>
+
+<path d="M188.1,26.7l37.8,0M80.8,325.7l4.5,-0.1l4.5,0l4.4,0l4.4,0l4.5,-0.1l4.5,0l4.4,-0.1l4.5,-0.1l4.4,0l4.5,-0.1l4.5,-0.1l4.4,-0.1l4.5,0l4.4,-0.2l4.5,-0.1l4.5,-0.1l4.4,-0.1l4.4,-0.2l4.5,0l4.5,-0.2l4.4,-0.1l4.5,-0.2l4.4,-0.1l4.5,-0.2l4.5,-0.2l4.4,-0.2l4.5,-0.1l4.4,-0.3l4.5,-0.2l4.5,-0.1l4.4,-0.3l4.4,-0.2l4.5,-0.1l4.5,-0.3l4.4,-0.2l4.5,-0.2l4.4,-0.3l4.5,-0.3l4.5,-0.2l4.4,-0.3l4.4,-0.2l4.5,-0.3l4.5,-0.3l4.5,-0.4l4.4,-0.3l4.4,-0.3l4.6,-0.3l4.4,-0.3l4.4,-0.3l4.5,-0.3l4.5,-0.4l4.4,-0.3l4.5,-0.4l4.4,-0.3l4.5,-0.3l4.5,-0.4l4.4,-0.4l4.5,-0.4l4.4,-0.4l4.5,-0.4l4.5,-0.4l4.4,-0.4l4.4,-0.4l4.5,-0.4l4.5,-0.5l4.4,-0.4l4.5,-0.4l4.4,-0.5l4.5,-0.4l4.5,-0.5l4.4,-0.5l4.4,-0.4l4.5,-0.5l4.5,-0.4l4.5,-0.6l4.4,-0.5l4.4,-0.5l4.5,-0.5l4.5,-0.5l4.4,-0.6l4.5,-0.5l4.4,-0.5l4.5,-0.6l4.5,-0.5l4.4,-0.5l4.4,-0.6l4.5,-0.6l4.5,-0.5l4.4,-0.6l4.5,-0.6l4.4,-0.6l4.6,-0.6l4.4,-0.6l4.4,-0.6l4.5,-0.6l4.5,-0.6l4.4,-0.6l4.5,-0.7l4.4,-0.6" class="g4_1" />
+<path d="M80.5,325.5l442,0l0,-324l-442,0l0,324Z" class="g2_1" />
+
+<path d="M0,369
+L0,0
+L553,0
+L553,369 z "
+fill="none"
+stroke-width="1.0"
+stroke-linecap="butt"
+stroke-linejoin="miter"
+stroke="#000000" />
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: QCATYI-Helvetica1;
+	src: url("1/fonts/QCATYI-Helvetica.woff") format("woff");
+}
+
+]]></style>
+
+<title>scale Page1</title>
+</svg>
