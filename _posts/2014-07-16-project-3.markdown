@@ -1,0 +1,18 @@
+---
+title: Totem-Dynamic
+subtitle: Dynamic Analysis
+layout: default
+modal-id: 3
+category: project
+date: 2014-07-16
+img: golden.png
+thumbnail: golden.png
+alt: image-alt
+repository: https://github.com/HolmesProcessing/Holmes-Totem-Dynamic
+documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
+license: https://github.com/HolmesProcessing/Holmes-Totem-Dynamic/blob/master/LICENSE
+
+---
+
+##### Overview
+temp

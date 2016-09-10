@@ -1,30 +1,30 @@
 <!-- Portfolio Grid Section -->
-    <section id="portfolio" class="bg-light-gray">
+    <section id="portfolio">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Projects</h2>
-                    <h3 class="section-subheading text-muted">Holmes Processing is comprised of multiple projects. Each project can be used individually or combined together to create one large system.</h3>
+                    <h3 class="section-subheading text-muted">Holmes Processing is comprised of multiple projects. Each project can be used individually or combined together to create a powerful system that spans the analysts life-cycle.</h3>
                 </div>
             </div>
             <div class="row">
             {% for post in site.posts %}
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
+                {% if post.categories contains 'project' %}
+                    <div class="col-md-4 col-sm-6 portfolio-item">
+                        <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
                             </div>
+                            <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>{{ post.title }}</h4>
+                            <p class="text-muted">{{ post.subtitle }}</p>
                         </div>
-                        <center>
-                            <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive" alt="">
-                        </center>
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
                     </div>
-                </div>
+                {% endif %}
             {% endfor %}
             </div>
         </div>
