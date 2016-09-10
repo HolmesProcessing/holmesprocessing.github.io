@@ -1,0 +1,18 @@
+---
+title: Gateway
+subtitle: Tasking Validation and Routing
+layout: default
+modal-id: 1
+category: project
+date: 2014-07-18
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+repository: https://github.com/HolmesProcessing/Holmes-Gateway
+documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
+license: https://github.com/HolmesProcessing/Holmes-Gateway/blob/master/LICENSE
+
+---
+
+##### Overview
+Main program for receiving tasking and objects. It validates input, checks authentication, and pushes the requests to the pipeline.

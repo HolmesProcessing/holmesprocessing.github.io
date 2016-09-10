@@ -1,0 +1,18 @@
+---
+title: Website
+subtitle: Multi-User Website
+layout: default
+modal-id: 6
+category: project
+date: 2014-07-13
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+repository: https://github.com/HolmesProcessing/Holmes-Frontend
+documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
+license: https://github.com/HolmesProcessing/Holmes-Frontend/blob/master/LICENSE
+
+---
+
+##### Overview
+The Holmes-Frontend is supposed to be used to easily retrieve data from your Holmes installation and display it in a human readable way.

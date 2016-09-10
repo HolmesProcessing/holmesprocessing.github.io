@@ -8,11 +8,12 @@
                     </div>
                 </div>
             </div>
-            <div class="container">
+            <div class="container modal-body">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <div>
                             <h2>{{ post.title }}</h2>
+                            <h5 class="text-muted">{{ post.subtitle }}</h5>
                             <hr class="star-primary">
                         </div>
                     </div>
@@ -22,24 +23,29 @@
                         <img src="img/portfolio/{{ post.img }}" class="img-responsive img-left" alt="{{ post.alt }}">
                     </div>
                     <div class="col-md-8">
-                        <p>{{ post.description }}</p>
+                        {{post.content}}
+                        <br>
                     </div>
                 </div>
+                {% if post.categories contains 'project' %}
+                    <div class="row">
+                        <ul class="list-inline item-details">
+                            <li>Code:
+                                <strong><a href="{{ post.repository }}">Github Repository</a>
+                                </strong>
+                            </li>
+                            <li>Documentation:
+                                <strong><a href="{{ post.documentation }}">Read the Docs</a>
+                                </strong>
+                            </li>
+                            <li>License:                                
+                                <strong><a href="{{ post.license }}">Apache 2</a>
+                                </strong>
+                            </li>
+                        </ul>
+                    </div>
+                {% endif %}
                 <div class="row">
-                    <ul class="list-inline item-details">
-                        <li>Code:
-                            <strong><a href="{{ post.repository }}">{{ post.repository-name }}</a>
-                            </strong>
-                        </li>
-                        <li>Documentation:
-                            <strong><a href="{{ post.documentation }}">{{ post.documentation-name }}</a>
-                            </strong>
-                        </li>
-                        <li>Category:
-                            <strong>{{ post.category }}
-                            </strong>
-                        </li>
-                    </ul>
                     <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                 </div>
             </div>

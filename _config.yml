@@ -1,18 +1,11 @@
 url: https://holmesprocessing.github.io
-baseurl: 
+baseurl:
 
 # Site settings
 title: Holmes Processing
+copyright: 2016 Holmes Group LLC
 email: your-email@domain.com
 description: "Holmes Processing is an open source and enterprise ready collection of tools for analyzing cyber security data. It provides the scalability, resilience, and flexibility needed to process 10s of millions of samples."
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 0D8098
-  secondary: 0A667A
-  secondary-dark: 333
-  nav: FFFFFF
-  nav-bg: rgba(0,0,0,0.5)
 
 # Team names, titles and social links
 people:
@@ -61,5 +54,3 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
-gems:
-  - jekyll-sitemap

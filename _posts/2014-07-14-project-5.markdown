@@ -1,0 +1,18 @@
+---
+title: Investigation
+subtitle: Results Analysis
+layout: default
+modal-id: 5
+category: project
+date: 2014-07-14
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+repository: https://github.com/HolmesProcessing/Holmes-Interrogation
+documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
+license: https://github.com/HolmesProcessing/Holmes-Interrogation/blob/master/LICENSE
+
+---
+
+##### Overview
+The Holmes-Interrogation Planner is defined by the SKALD Architecture and serves as the focal point for performing analysis and render the data derived from Holmes-Totem.

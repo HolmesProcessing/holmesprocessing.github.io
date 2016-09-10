@@ -1,0 +1,20 @@
+---
+title: Terms of Use
+subtitle: Licenses & Other Legalities 
+layout: default
+modal-id: -2
+category: licenses
+date: 2014-07-18
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+repository: https://github.com/HolmesProcessing/Holmes-Gateway
+documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
+license: https://github.com/HolmesProcessing/Holmes-Gateway/blob/master/LICENSE
+
+---
+
+##### License 
+The core of all Holmes Processing projects are licensed under Apache 2. 
+
+Services are licensed individually. We have made every effort to leverage the Apache 2 license on Services we create. However, this is not always possible and we have not created every Service. As such, please refer to each Service's individual license agreement which can be found in the Service's folder. Additionally, some Services will supply bundled tools or connect with tools that are not owned, operated, or otherwise affiliated with Holmes Processing. Please refer to these tools for details on their respective license agreements.
