@@ -5,8 +5,8 @@ layout: default
 modal-id: 3
 category: project
 date: 2014-07-16
-img: golden.png
-thumbnail: golden.png
+img: totem-dynamic.svg
+thumbnail: totem-dynamic.svg
 alt: image-alt
 repository: https://github.com/HolmesProcessing/Holmes-Totem-Dynamic
 documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
