@@ -26,7 +26,7 @@ Totem-Dynamic is based on [distributed_cuckoo](https://github.com/cynexit/cuckoo
 Internally the application is mostly devided in three parts. `feed` is accepting new tasks from the outside, checks the status of the requested service and - if everything is fine - submits the task to the service or else postpones it until the service status is good again.  `check` then periodically checks if the service is done with the task or if it still need time or if an error occured. `submit` then collects the results from the service and sends it out 
 
 <center>
-<img src="img/totem-dynamic.png" alt="Diagramm of Totem-Dynamic" style="width: 700px;"/>
+<img src="img/portfolio/totem-dynamic-architecture.png" alt="Diagramm of Totem-Dynamic" style="width: 700px;"/>
 </center>
 
 ###### Services
