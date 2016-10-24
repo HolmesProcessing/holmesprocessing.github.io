@@ -5,8 +5,8 @@ layout: default
 modal-id: 2
 category: project
 date: 2014-07-17
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: totem.svg
+thumbnail: totem.svg
 alt: Totem
 repository: https://github.com/HolmesProcessing/Holmes-Totem
 documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
