@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: Academic & Industrial Publications
+subtitle: Scientific Publications & Industrial Conferences
 layout: default
 modal-id: -1
 category: publications
@@ -17,11 +17,12 @@ license: https://github.com/HolmesProcessing/Holmes-Gateway/blob/master/LICENSE
 
 Holmes Processing is developed in partnership with academia and industry. To assist our academic partners, please cite or provide an acknowledgement to their work. It is their currency and helps them greatly.
 
-##### Academic Publications
+##### Scientific Publications
 
 | Title | Publication | Links |
 | --- | --- | --- |
 | SKALD: A Scalable Architecture for Feature Extraction, Multi-User Analysis, and Real-Time Information Sharing | 19th International Conference on Information Security (ISC) | [bibtex](https://www.sec.in.tum.de/george-webster/bibtex/422) |
+| Adaptive Semantics-Aware Malware Classification | 13th Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA) | [bibtex](https://www.sec.in.tum.de/publications/bibtex/419) |
 | Distributed Services for Large Scale Dynamic Malware Analysis | Thesis | [bibtex](https://www.sec.in.tum.de/publications/bibtex/417) |
 | Large Scale Anomaly Detection Using Spark | Thesis |  |
 | Automated Detection of Malware Relationships | Thesis |  |
