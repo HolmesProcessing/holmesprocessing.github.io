@@ -5,9 +5,9 @@ layout: default
 modal-id: 6
 category: project
 date: 2014-07-13
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
+img: temp.svg
+thumbnail: temp.svg
+alt: Website-img
 repository: https://github.com/HolmesProcessing/Holmes-Frontend
 documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
 license: https://github.com/HolmesProcessing/Holmes-Frontend/blob/master/LICENSE

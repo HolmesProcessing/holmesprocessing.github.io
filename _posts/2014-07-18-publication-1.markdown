@@ -5,9 +5,9 @@ layout: default
 modal-id: -1
 category: publications
 date: 2014-07-18
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
+img: temp.svg
+thumbnail: temp.svg
+alt: Publications-img
 repository: https://github.com/HolmesProcessing/Holmes-Gateway
 documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
 license: https://github.com/HolmesProcessing/Holmes-Gateway/blob/master/LICENSE
