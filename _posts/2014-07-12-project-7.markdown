@@ -5,9 +5,9 @@ layout: default
 modal-id: 7
 category: project
 date: 2014-07-13
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
+img: temp.svg
+thumbnail: temp.svg
+alt: Toolbox-img
 repository: https://github.com/HolmesProcessing/Holmes-Toolbox
 documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
 license: https://github.com/HolmesProcessing/Holmes-Toolbox/blob/master/LICENSE

@@ -7,7 +7,7 @@ category: project
 date: 2014-07-17
 img: totem.svg
 thumbnail: totem.svg
-alt: Totem
+alt: Totem-img
 repository: https://github.com/HolmesProcessing/Holmes-Totem
 documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
 license: https://github.com/HolmesProcessing/Holmes-Totem/blob/master/LICENSE

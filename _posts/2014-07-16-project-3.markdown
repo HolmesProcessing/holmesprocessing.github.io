@@ -7,7 +7,7 @@ category: project
 date: 2014-07-16
 img: totem-dynamic.svg
 thumbnail: totem-dynamic.svg
-alt: image-alt
+alt: totem-dynamic-img
 repository: https://github.com/HolmesProcessing/Holmes-Totem-Dynamic
 documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
 license: https://github.com/HolmesProcessing/Holmes-Totem-Dynamic/blob/master/LICENSE

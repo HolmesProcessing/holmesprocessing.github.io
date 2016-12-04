@@ -7,7 +7,7 @@ category: project
 date: 2014-07-18
 img: gateway.svg
 thumbnail: gateway.svg
-alt: image-alt
+alt: Gateway-img
 repository: https://github.com/HolmesProcessing/Holmes-Gateway
 documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
 license: https://github.com/HolmesProcessing/Holmes-Gateway/blob/master/LICENSE
