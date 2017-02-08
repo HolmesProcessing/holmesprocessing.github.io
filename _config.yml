@@ -3,7 +3,7 @@ baseurl:
 
 # Site settings
 title: Holmes Processing
-copyright: 2016 Holmes Group LLC
+copyright: 2017 Holmes Group LLC
 email: your-email@domain.com
 description: "Holmes Processing is an open source and enterprise ready collection of tools for analyzing cyber security data. It provides the scalability, resilience, and flexibility needed to process 10s of millions of samples."
 
@@ -14,7 +14,7 @@ people:
   position: Core Developer
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/data_zach
     - title: linkedin
       url: #
 
@@ -23,7 +23,7 @@ people:
   position: Core Developer
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/webstergd
     - title: linkedin
       url: #
 
@@ -39,7 +39,7 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/holmesprocessin
+    url: http://twitter.com/holmesprocess
   - title: github
     url: http://github.com/holmesprocessing
 
