@@ -5,8 +5,8 @@ layout: default
 modal-id: 5
 category: project
 date: 2014-07-14
-img: temp.svg
-thumbnail: temp.svg
+img: investigation.svg
+thumbnail: investigation.svg
 alt: Investigation-img
 repository: https://github.com/HolmesProcessing/Holmes-Interrogation
 documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
