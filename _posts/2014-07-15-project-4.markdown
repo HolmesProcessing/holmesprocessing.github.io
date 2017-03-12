@@ -5,8 +5,8 @@ layout: default
 modal-id: 4
 category: project
 date: 2014-07-15
-img: temp.svg
-thumbnail: temp.svg
+img: storage.svg
+thumbnail: storage.svg
 alt: storage-img
 repository: https://github.com/HolmesProcessing/Holmes-Storage
 documentation: https://holmes-processing.readthedocs.io/en/latest/rst/installation/index.html
