@@ -157,9 +157,9 @@
 .fa-stack {
   position: relative;
   display: inline-block;
-  width: 2em;
-  height: 2em;
-  line-height: 2em;
+  width: 3em;
+  height: 3em;
+  line-height: 1em;
   vertical-align: middle;
 }
 .fa-stack-1x,
@@ -173,7 +173,7 @@
   line-height: inherit;
 }
 .fa-stack-2x {
-  font-size: 2em;
+  font-size: 3em;
 }
 .fa-inverse {
   color: #ffffff;
