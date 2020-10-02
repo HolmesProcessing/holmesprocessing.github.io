@@ -1,4 +1,4 @@
-Holmes Processing Website
+An Amazing Holmes Processing Website
 ====================
 
 Website for Holmes Processing. Click [here](http://holmesprocessing.github.io/) to view the website.
