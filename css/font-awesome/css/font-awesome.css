@@ -18,6 +18,8 @@
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+   text-shadow:3px 4px 4px blue; /*used for shadow of text by using this it gives 3D effects
+  
 }
 /* makes the font 33% larger relative to the icon container */
 .fa-lg {
